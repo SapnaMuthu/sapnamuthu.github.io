@@ -1,35 +1,41 @@
 A software engineer with hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance testng with familarity in all the phases of software devlopment life cycle with atleast 3 years of experience.
 
-## *Social:*
+<h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Social: 
+</h2>
 
 - Gmail: <sapnamuthuu@gmail.com> 
 - Linkedin: <https://www.linkedin.com/in/sapna-maduraimuthu-25270421a/>
 
-## *Interests:*
+<h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Interests: 
+</h2>
 - I love travelling to new places and making memories.
 - I enjoy playing badminton.
 - I am interested in Machine Learning and would like to build something really cool which would be useful for me in my daily routine.
 
-## *Projects so far:*
+<h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Projects so far: 
+</h2>
 
 * LinkUp App - Cross Platform Mobile Application Built using React Native and Firebase.
 * Analysis and Visualization of Road Traffic Accidents in Michigan using Tableau.
 * Fake News Prediction and Spam Mail Prediction using Logistic Regression and TfidfVectorizer.
 * Weather Forecast GUI using Tkinter and Beautiful Soup in Python.
 
-## *Technical Stack:*
+<h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Technical Stack: 
+</h2>
 
 * Programming: Python, C++, Javascript, C, HTML, JAVA, NodeJS, React Native, COBOL,R
 * Python Framework: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, TensorFlow , Matplotlib, Scikit-Learn, Seaborn, TensorFlow
 * Programming Software: Visual Studio code, Eclipse, Lucid Chart, Anaconda, Tableau
 * Databases: MySQL, Mongo DB , AQT, Oracle, SQL, Google Firebase , PL/SQL
 
-## *Education History:*
+<h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Education History: 
+</h2>
 
 - Grand Valley State University:(2022 - 2023) Masters in Computer Science with the concentration in Database Management Systems
 - R.M.D Engineering College:(2014 - 2018) Bachelors in Information Technology
 
-## *Upcoming Term Project:*
+<h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Upcoming Term Project: 
+</h2>
 
 Our Project idea is to develop a Food Recipe App that shows the user about the instructions on how to prepare a specific food item along with the extra information like the ingredients, nutrients, servings, and preparation time. The user can search with a particular keyword like "Pizza" and it would display all the available food recipes for Pizza. Afterward, the user can add a specific food recipe to the wish list if they like the recipe and scroll through the wish-listed food recipes later.
 
@@ -37,7 +43,8 @@ With my prior experience on developing a React Native App by integrating with th
 
 <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites">Term Project</a>
 
-## *Favorite City:*
+<h2 span style="color:#1F83FF;font-weight:500;font-style:italic"> Favorite City: 
+</h2>
 
 NewYork
 
